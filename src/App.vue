@@ -1,15 +1,15 @@
 <template>
-  <div>王sad</div>
-  <Sad />
+  <div>Nav
+    <router-link to="/">index</router-link> |
+    <router-link to="/kepler">kepler</router-link>
+  </div>
+
+  <router-view/>
 </template>
 
 <script>
-import Sad from './components/Sad.vue'
 
 export default {
-  name: 'App',
-  components: {
-    Sad
-  }
+  name: 'App'
 }
 </script>

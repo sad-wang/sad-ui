@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8dca736c-2478-40eb-9de9-8ea3af3ea8b3" name="Default Changelist" comment="" />
+    <list default="true" id="8dca736c-2478-40eb-9de9-8ea3af3ea8b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Kepler.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shims-vue.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,8 +24,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1j94w1EvPXc0VsQbRQUUM3BLLsj" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -25,6 +40,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="ts.external.directory.path" value="C:\Software\WebStorm 2020.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -34,11 +50,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603203209229</updated>
-      <workItem from="1603203210260" duration="476000" />
+      <workItem from="1603203210260" duration="546000" />
+      <workItem from="1603238045643" duration="2474000" />
+      <workItem from="1603240546364" duration="199000" />
+      <workItem from="1603282418226" duration="145000" />
+      <workItem from="1603282575664" duration="90000" />
     </task>
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
+    <envs>
+      <env key="LESSCHARSET" value="utf-8" />
+    </envs>
     <option name="shellPath" value="C:\Software\Git\bin\bash.exe" />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -49,13 +72,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603203392755" />
+    <state x="818" y="265" width="652" height="509" key="EnvironmentVariablesDialog" timestamp="1603240684192">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="818" y="265" width="652" height="509" key="EnvironmentVariablesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603240684192" />
     <state x="740" y="260" key="FileChooserDialogImpl" timestamp="1603203229434">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603203229434" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1603203688679">
+    <state x="461" y="164" key="SettingsEditor" timestamp="1603282617601">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603203688679" />
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603282617601" />
   </component>
 </project>
